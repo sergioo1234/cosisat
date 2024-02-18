@@ -1,0 +1,1 @@
+-malloc=system -USEALLAVAILABLECORES -nomansky +mat_antialias 0 -NOTEXTURESTREAMING -PREFERREDPROCESSOR 4 -limitclientticks -NOSPLASH -LANPLAY
